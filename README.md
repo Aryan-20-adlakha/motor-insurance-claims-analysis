@@ -5,6 +5,8 @@
 
 This project analyses a portfolio of 500 motor insurance policies using Microsoft Excel. It examines claims experience, compares portfolio segments, and develops a simplified indicative pricing model.
 
+![Motor Insurance Dashboard](dashboard.png)
+
 The project demonstrates the application of actuarial concepts to general insurance data.
 
 ## Objectives
@@ -84,12 +86,6 @@ The model evaluates different combinations of claim frequency and severity to un
 - Vehicles aged 4–6 years showed a higher loss ratio than the other vehicle-age categories.
 
 These findings describe this dataset and should not be treated as universal insurance-industry conclusions.
-
-## Project Dashboard
-
-The dashboard below summarises portfolio performance, claim frequency, claim severity and loss ratios across different segments.
-
-![Motor Insurance Dashboard](dashboard.png)
 
 ## Project Files
 

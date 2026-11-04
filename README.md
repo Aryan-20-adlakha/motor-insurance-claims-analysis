@@ -85,10 +85,16 @@ The model evaluates different combinations of claim frequency and severity to un
 
 These findings describe this dataset and should not be treated as universal insurance-industry conclusions.
 
+## Project Dashboard
+
+The dashboard below summarises portfolio performance, claim frequency, claim severity and loss ratios across different segments.
+
+![Motor Insurance Dashboard](dashboard.png)
+
 ## Project Files
 
-- `Motor_Insurance_Claims_Analysis.xlsx` — Excel analysis, pricing model and dashboard.
-- `dashboard.png` — Screenshot of the dashboard.
+- [Download the Excel Workbook](Motor_Insurance_Claims_Analysis.xlsx)
+- [View Dashboard Screenshot](dashboard.png)
 
 ## Limitations
 

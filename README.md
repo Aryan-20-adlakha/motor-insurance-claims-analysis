@@ -32,7 +32,7 @@ The project demonstrates the application of actuarial concepts to general insura
 | Number of claims | 39 |
 | Total exposure | 461.824 policy-years |
 | Earned premium | ₹10.23 million |
-| Incurred claims | ₹1.14 million |
+| Incurred claims | ₹1.135 million |
 | Claim frequency | 8.44% |
 | Average claim severity | ₹29,112 |
 | Pure premium per policy-year | Approximately ₹2,458 |
